@@ -1,3 +1,6 @@
 # Ignore 10y data folder
 10y data/
 
+# Ignore cache folder
+cache/
+
